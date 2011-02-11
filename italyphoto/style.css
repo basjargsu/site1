@@ -495,16 +495,16 @@ html>body #two_column_right
 #thumbs {
 /*  margin: 2px;*/
 /*  border-spacing: 10px;*/
-  border-collapse: separate;
+/*  border-collapse: separate;*/
   table-layout: fixed;
 /*  width: 105px;*/
 /*  *border-collapse: expression('separate', cellSpacing = '10px');*/
  }
 
- * html #thumbs {
-/*   hack for ie*/
+/* * html #thumbs {
+   hack for ie
    border-collapse: expression('separate', cellSpacing = '10px');
-}
+}*/
 
 /*#thumbs tr {
 table-layout: fixed;s
