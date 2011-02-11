@@ -78,7 +78,7 @@ find your own lodgings.</p>
         What weather can I expect in September?
       </div>
       <p>In September the weather in Venice is very pleasant: daytime temperatures on average are in
-the low-to-mid â€?70&#39;s, and there are an average of 7 hours of sunshine a day. Night temperatures are
+the low-to-mid 70&#39;s, and there are an average of 7 hours of sunshine a day. Night temperatures are
 in the high 50&#39;s to low 60&#39;s. Rain is always
 possible.</p>
 
