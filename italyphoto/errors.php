@@ -4,9 +4,7 @@ TODO
   Testomonials:
     instructorsвЂ¦and
   Popup copyright
-  Script
-   to make the function findimg() run only on gallery pages
-    
+      
  DONE
   Contact:
     website
@@ -27,7 +25,12 @@ TODO
     50 white 38 span
     changed vertical-align to texttop left, middle right, class column
     ie error too much white between cells : table-layout: fixed;
+    ie without border-spacing: same
+    images space after text: margin top
   Pages at general
     js error about gettag null
      if (myElement != null)
-    
+  Script
+   to make the function findimg() run only on gallery pages: thisPage check
+  Registration
+   Workshop prices right space
