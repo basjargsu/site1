@@ -1,0 +1,14 @@
+Global setup:
+ Download and install Git
+  git config --global user.name "Your Name"
+  git config --global user.email basjargsu@gmail.com
+        
+Next steps:
+  mkdir gallerysite
+  cd gallerysite
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:basjargsu/gallerysite.git
+  git push origin master
