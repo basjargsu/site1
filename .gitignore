@@ -1,0 +1,14 @@
+# img 
+images
+.jpg
+.tif
+.tiff
+.jpeg
+
+# OS generated files #
+######################
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
