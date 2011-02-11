@@ -71,7 +71,7 @@
       </p>
 
       <div id="title2">Workshop prices:</div>
-      <ol>
+      <ol id="registr_bottom">
         <li>
           <p>A double occupancy room at the Don Orione Cultural Center: $3,850.</p></li>
         <li>
