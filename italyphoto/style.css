@@ -497,6 +497,7 @@ html>body #two_column_right
 /*  border-spacing: 10px;*/
 /*  border-collapse: separate;*/
   table-layout: fixed;
+  margin-top: 11px;
 /*  width: 105px;*/
 /*  *border-collapse: expression('separate', cellSpacing = '10px');*/
  }
@@ -517,6 +518,9 @@ table-layout: fixed;s
 #thumbs tbody {
   table-layout: fixed;
 }*/
+#registr_bottom {
+  margin-top: 0;
+}
 
 #thumbs td {
 padding-top: 0px;
@@ -706,6 +710,10 @@ width: 105px !important;
 .right_gallery_column span {
   padding-left: 38px;
   }
+
+  #BigOne {
+    margin-top: 12px;
+}
 
 /*#gallery_images img, #gallery_images td {
   vertical-align: text-top;
