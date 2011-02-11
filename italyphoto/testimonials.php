@@ -39,7 +39,7 @@
         student and DSLR user, every bit of information was invaluable. I would do it
         again in a heartbeat.&#8221;</p>
         <p>&#8220;The instruction. The people. The enthusiasm. And complete access to
-        the instructors…and the complete bliss of Italy. Much fun!!&#8221;</p>
+        the instructors&#8230; and the complete bliss of Italy. Much fun!!&#8221;</p>
         <p>&#8220;Three things: I learned a lot; I got professional feedback on my work;
         and the setting was dreamlike in its beauty. The whole experience of this
         workshop was exciting and pleasurable beyond my expectations&nbsp;&mdash; which were
