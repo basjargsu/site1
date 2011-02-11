@@ -33,10 +33,10 @@
         <div id="title2">Holly Smith Pedlosky</div>
         <p> Website: <a href="http://www.pedlosky.org" target="_blank">http://www.pedlosky.org</a><br/>
           E-mail: <a href="mailto:hollysmithpedlosky@italyphotoworkshops.org">hollysmithpedlosky@italyphotoworkshops.org</a></p>
-        <p>
+<!--        <p>
           <a id="img_a" href="http://www.facebook.com/profile.php?id=1562676850" target="_blank"><img src="images/contact/Facebook.jpg"
              alt="Facebook, My page" title="Facebook"/></a><br/>
-        </p>
+        </p>-->
 
         <p><span id="anchor_top"><a href="#top">return to top</a></span></p>
       </div>
