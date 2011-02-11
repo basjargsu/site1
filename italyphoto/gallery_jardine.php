@@ -10,7 +10,7 @@
       <td></td><td class="right_gallery_column"><span id="title1">Portraits of People&nbsp;&amp; Places</span></td>
     </tr>
     <tr>
-      <td>
+      <td class="left_gallery_column">
         <table id="thumbs">
           <tr>
             <td><img src="images/image_gallery/gj/01_gj_thumb.jpg" alt="Burmese Boy Looking Over Barbed-Wire"/></td>
